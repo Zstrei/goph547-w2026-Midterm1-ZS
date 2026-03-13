@@ -1,6 +1,5 @@
 """
 Part 2 - Vector operations and curvilinear coordinates
-Full NumPy solution with derivations included in comments and printed output.
 
 This script covers:
 (a) Gravitational field g = -∇U in Cartesian coordinates
