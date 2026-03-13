@@ -66,3 +66,5 @@ The `examples` directory contains the files corresponding to the computational p
 `part-3.py` performs the calculations related to gravitational flux and equivalent surface density for subsurface mass anomalies. The script evaluates the flux integral through the integration surface and computes the equivalent surface density for the mass distribution.
 
 `part-4.py` implements the calculations for theoretical gravity on a rotating Earth. This includes evaluating the gravitational and centrifugal contributions to gravity and comparing the theoretical estimate with values obtained using an International Gravity Formula.
+
+NOTE: All derivations required to answer the questions are found in the comments of the code for each specific part of each question. All questions requiring comments/comparisons on data can be found in the "Final outputs" section of the code, usually found near the bottom of the program as well as printed in the output of the code 
