@@ -6,7 +6,7 @@ This script solves parts (a), (b), and (c) of the problem using NumPy.
 NOTE: The derivations required for the assignment are written in the comments
 so that the logical steps are clearly documented.
 
-NOTE: Questions requiring written components are written at the bottom under final answers, headed explanation
+NOTE: Questions requiring written components are written at the bottom under final answers, headed explanation.
 
 PARTS
 -----
