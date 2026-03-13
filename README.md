@@ -3,10 +3,6 @@ Semester: W2026
 Instructor: B. Karchewski  
 Author(s): Zac Strei  
 
-Semester: W2026  
-Instructor: B. Karchewski  
-Author(s): Zac Strei  
-
 This repository contains the code and outputs for **Midterm #1 of GOPH 547 (Winter 2026)**. The midterm covers topics related to gravitational potential fields, vector calculus operations, gravitational flux, equivalent surface density, and theoretical gravity in a rotating reference frame. The problems require both analytical derivations and numerical calculations using Python. The provided scripts implement the calculations used to solve the quantitative portions of the midterm and generate the outputs and visualizations used to interpret the results. The exam consists of conceptual multiple-choice questions as well as analytical and computational problems involving gravitational fields, divergence, flux integrals, spherical coordinate systems, and gravity effects from subsurface mass anomalies. 
 
 The recommended way to download or clone the repository is by navigating to the desired directory in a terminal using the command:
@@ -59,7 +55,7 @@ pip install numpy matplotlib setuptools
 
 The `examples` directory contains the files corresponding to the computational portions of the midterm.
 
-`part-1.txt` contains the written answers for the conceptual and theoretical questions from Part I of the midterm. These responses address topics such as gravitational field properties, Newton’s law of gravitation, gravity gradients, rotating reference frames, and the geoid.
+`part-1.txt` contains the answers for the conceptual and theoretical questions from Part I of the midterm (multiple choice). These responses address topics such as gravitational field properties, Newton’s law of gravitation, gravity gradients, rotating reference frames, and the geoid.
 
 `part-2.py` implements the calculations required for the vector operations and curvilinear coordinate analysis. The script computes gravitational field components, evaluates vector operations such as divergence, and performs numerical calculations using the Cartesian form of the gravitational potential.
 
