@@ -1,0 +1,13 @@
+This file contains all of the multiple-choice answers for midterm 1.
+
+1. b 
+2. a 
+3. abc 
+4. ab
+5. bcd
+6. d 
+7. ad
+8. ac
+9. c 
+10. bd 
+
